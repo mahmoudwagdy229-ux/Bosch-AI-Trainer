@@ -1,2 +1,5 @@
-# Bosch-AI-Trainer
-An AI-powered training app that enhances product knowledge and sales skills through interactive learning, smart assessments, and instant product answers.  Created by Mahmoud Wagdy | Product Trainer | BSH Egypt
+# Bosch Trainer AI 2026
+
+Upload all files and folders to the GitHub repository root. Enable GitHub Pages from the main branch.
+
+Support: mahmoud.wagdy-ext@bshg.com
