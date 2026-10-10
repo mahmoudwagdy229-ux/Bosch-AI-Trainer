@@ -23,18 +23,18 @@ header{
 .top{
     max-width:1200px;
     margin:auto;
-    padding:12px 20px;
+    padding:8px 20px;
     display:flex;
     justify-content:flex-end;
     align-items:center;
 }
 
 .logo{
-    width:250px;
+    width:220px;
     max-width:46vw;
 }
 
-/* Layout */
+/* Main Layout */
 
 .wrap{
     max-width:1200px;
@@ -42,48 +42,50 @@ header{
     padding:24px;
 }
 
-/* Hero */
+/* Hero Banner */
 
 .hero{
     background:#163f5c;
     color:#fff;
     border-radius:20px;
-    padding:30px;
+    padding:40px;
     margin-bottom:18px;
 }
 
-/* New banner titles */
-
 .hero-title{
-    margin-bottom:24px;
+    margin-bottom:20px;
 }
 
 .hero-title h1{
     margin:0;
-    font-size:38px;
+    font-size:48px;
     font-weight:700;
     color:#fff;
 }
 
 .hero-title h3{
-    margin:8px 0 0;
-    font-size:18px;
+    margin:10px 0 0;
+    font-size:20px;
     font-weight:400;
     color:rgba(255,255,255,.85);
 }
 
 .hero h2{
-    font-size:32px;
-    margin:0 0 10px;
+    margin:25px 0 10px;
+    font-size:34px;
+    color:#fff;
 }
 
 .hero p{
-    margin-bottom:15px;
+    margin:0;
+    font-size:18px;
     color:rgba(255,255,255,.92);
 }
 
 .stats{
+    margin-top:15px;
     font-weight:bold;
+    font-size:20px;
 }
 
 /* Controls */
@@ -113,7 +115,7 @@ button{
 }
 
 .outline{
-    background:#fff;
+    background:white;
     color:#e20015;
     border:1px solid #e20015;
 }
@@ -127,7 +129,7 @@ button{
 }
 
 .card{
-    background:white;
+    background:#fff;
     border-radius:16px;
     padding:18px;
     box-shadow:0 4px 18px #0000000d;
@@ -177,7 +179,7 @@ button{
 }
 
 .panel{
-    background:white;
+    background:#fff;
     max-width:850px;
     margin:auto;
     border-radius:20px;
@@ -211,7 +213,7 @@ button{
     bottom:18px;
     left:18px;
     background:#163f5c;
-    color:white;
+    color:#fff;
     border-radius:14px;
     padding:14px;
     box-shadow:0 6px 24px #0004;
@@ -235,53 +237,9 @@ button{
 footer{
     text-align:center;
     background:#17212b;
-    color:white;
+    color:#fff;
     padding:28px;
     margin-top:35px;
 }
 
 footer a{
-    color:white;
-}
-
-.empty{
-    text-align:center;
-    padding:60px;
-}
-
-.muted{
-    color:#66717d;
-}
-
-/* Mobile */
-
-@media(max-width:650px){
-
-    .controls{
-        grid-template-columns:1fr;
-    }
-
-    .hero-title h1{
-        font-size:28px;
-    }
-
-    .hero-title h3{
-        font-size:15px;
-    }
-
-    .hero h2{
-        font-size:24px;
-    }
-
-    .specs{
-        grid-template-columns:1fr;
-    }
-
-    .drawer{
-        padding:12px;
-    }
-
-    .logo{
-        width:180px;
-    }
-}
