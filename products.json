@@ -945,4 +945,102 @@
       "الجهد": "20 V"
     },
     "story": "تنظيف Bosch بقوة عملية وترشيح مناسب للاستخدام اليومي."
-  }
+  },
+{
+  "category":"Laundry",
+  "subcategory":"Front Load Washing Machines",
+  "model":"WGB2440XEG",
+  "series":8,
+  "features":[
+    "4D Wash",
+    "Home Connect",
+    "Anti Stain",
+    "Steam Assist",
+    "Allergy Plus",
+    "EcoSilence Drive"
+  ],
+  "specs":{
+    "السعة":"9 KG",
+    "عدد اللفات":"1400 RPM",
+    "حجم الحلة":"65 L"
+  },
+  "story":"غسالة Series 8 مزودة بتقنية 4D Wash وHome Connect."
+},
+{
+  "category":"Laundry",
+  "subcategory":"Front Load Washing Machines",
+  "model":"WGK254Z1EG",
+  "series":6,
+  "features":[
+    "3D Wash",
+    "Home Connect",
+    "Anti Stain"
+  ],
+  "specs":{
+    "السعة":"10 KG",
+    "عدد اللفات":"1400 RPM"
+  },
+  "story":"غسالة Series 6 سعة 10 كجم."
+},
+{
+  "category":"Laundry",
+  "subcategory":"Front Load Washing Machines",
+  "model":"WGK254Z2EG",
+  "series":6,
+  "features":[
+    "3D Wash",
+    "Home Connect"
+  ],
+  "specs":{
+    "السعة":"10 KG",
+    "عدد اللفات":"1400 RPM"
+  },
+  "story":"غسالة Series 6 سعة 10 كجم."
+},
+{
+  "category":"Laundry",
+  "subcategory":"Front Load Washing Machines",
+  "model":"WGA254ZREG",
+  "series":4,
+  "features":[
+    "Anti Stain",
+    "Iron Steam Assist"
+  ],
+  "specs":{
+    "السعة":"10 KG",
+    "عدد اللفات":"1400 RPM"
+  },
+  "story":"غسالة Series 4."
+},
+{
+  "category":"Laundry",
+  "subcategory":"Front Load Washing Machines",
+  "model":"WGA244Z1EG",
+  "series":4,
+  "features":[
+    "Anti Stain",
+    "Speed Perfect"
+  ],
+  "specs":{
+    "السعة":"9 KG",
+    "عدد اللفات":"1400 RPM"
+  },
+  "story":"غسالة Series 4."
+},
+{
+  "category":"Laundry",
+  "subcategory":"Slim Washing Machines",
+  "model":"WLZ2421SEG",
+  "series":2,
+  "features":[
+    "Anti Stain",
+    "Dark Colors",
+    "Active Water Plus"
+  ],
+  "specs":{
+    "السعة":"8 KG",
+    "عدد اللفات":"1200 RPM"
+  },
+  "story":"غسالة Slim."
+}
+]
